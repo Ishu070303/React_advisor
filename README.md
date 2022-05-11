@@ -16,7 +16,7 @@
 </br>
 A demo version is automatically deployed for this repositories:
 
-- Deploy on netlify - [https://memoriesbringback.netlify.app](https://memoriesbringback.netlify.app)
+- Deploy on netlify - [https://ad-visor.netlify.app/](https://ad-visor.netlify.app/)
 
 
 ## Technology Stack 
