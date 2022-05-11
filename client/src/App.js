@@ -22,9 +22,11 @@ class App extends React.Component{
     render(){
         const { advice } = this.state;
         return(
-            <div>
-               {advice}
-            </div>
+           <div className='app'>
+               <div className='card'>
+                   <h1 className='heading'>{ advice }</h1>
+               </div>
+           </div>
         )
     }
 };
